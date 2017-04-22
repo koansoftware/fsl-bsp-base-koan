@@ -1,3 +1,9 @@
+KOAN's Yocto BSP setup for the Freescale's Community Yocto BSP
+==============================================================
+Inherited from fsl-community-bsp-base
+https://github.com/Freescale/fsl-community-bsp-base
+
+
 Freescale's Community Yocto BSP
 ===============================
 
